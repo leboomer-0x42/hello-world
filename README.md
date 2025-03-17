@@ -1,4 +1,4 @@
 # hello-world
 first project
 
-review beanches and commit purpose
+review branches and commit purpose
